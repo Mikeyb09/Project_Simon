@@ -37,3 +37,19 @@ body {
 #blue {
     background-color: blue;
 }
+
+@media (max-width: 990px) {
+    h1 {
+        font-size: 6.5rem;
+        padding: .5em 1.5em;
+    }
+
+    .block {
+        width: 45%;
+        height:30em;
+        border: 1px solid;
+        border-radius: 20px;
+        display: inline-block;
+        margin: 1.5% 1.5%
+    }
+}
