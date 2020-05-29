@@ -1,0 +1,39 @@
+body {
+    background-color: #070540;
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    text-align: center;
+}
+
+#heading {
+    margin: 3% 0;
+}
+
+#heading h1 {
+
+}
+
+.block {
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 1.5% 1.5%
+}
+
+#red{
+    background-color: red;
+}
+
+#green {
+    background-color: green;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#blue {
+    background-color: blue;
+}
